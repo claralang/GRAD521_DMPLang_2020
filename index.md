@@ -11,4 +11,8 @@ The primary researcher will be responsible for the data from project startup unt
 ## Data Standards and Metadata
 ## Storage and Security
 ## Access and data sharing
+The current dataset can be publicly shared since it does not involve human subjects and will not be patented. It is currently available to the PI, postdoc, and the primary researcher. Upon publication it will be publicly available as attached supplementary information to the journal article. The neat data files will be available in .csv format. The data will be available under license CC BY 4.0. 
 ## Archiving and Preservation
+A data preservation plan will be completed by the end of the project to ensure all information can be incorporated to future projects. The data will be maintained with the PI for at least 15 years. The raw data, neat data, R codes for analysis, and images will be shared with the PI. The PI, primary researcher, and post doc will ensure that the data is well-structured into appropriate folders and subfolders before its archival. Images will be stored as .jpg, spreadsheets as .csv, and metadata/procedural information/R code stored in a .txt format. The PI will be primarily responsible for this data until a new primary researcher continues the project. 
+
+
