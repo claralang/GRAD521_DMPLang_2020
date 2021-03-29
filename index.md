@@ -14,7 +14,7 @@ The purpose of this project is to observe the effect of various modifications on
   
   FT-IR: The FT-IR spectrometer will measure absorbance vs wavenumber in a graph. I am unfamiliar with the specific software that will be used, but the final data output for interpretation will be a graph. It will be less than 1GB. 
   
-  Differential Scanning Calorimetry: Using DSC Q2000 from TA instruments, heat flow and temperature throughout the procedure will be recorded. I am unfamiliar with the software, but the final data output for interpretation will be a graph. <1 GB
+  Differential Scanning Calorimetry: Using DSC Q2000 from TA instruments, heat flow and temperature throughout the procedure will be recorded. The final data output for interpretation will be a .csv, which will be transformed into a graph. <1 GB
   
 Qualitative data will be stored in .jpg format:
   SEM/stereomicroscope imaging: Using Scanning electron microscope, high quality images of the fibers will be captured. It will be saved onto the lab drive as well as my personal laptop. <1GB
